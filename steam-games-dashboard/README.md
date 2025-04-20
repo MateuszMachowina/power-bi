@@ -3,6 +3,10 @@
 ## Overview
 This is a Power BI dashboard that visualizes various statistics of Steam games. The data comes from the [Steam Games Dataset on Kaggle](https://www.kaggle.com/datasets/mexwell/steamgames). The report includes various key performance indicators (KPIs) such as average playtime, peak concurrent players, and more, displayed through interactive charts and tooltips.
 
+
+🔗 **Live Dashboard**: [View Power BI Report](https://mateuszmachowina.github.io/power-bi/)  
+_(Requires access to the author's Power BI organization - SGH Warsaw School of Economics)_
+
 ## Files Included
 - **steam-games-dashboard.pbix**: The main Power BI report file.
 - **steam-games-dashboard-overview.pdf**: A PDF overview of the dashboard with screenshots of the key visuals.
