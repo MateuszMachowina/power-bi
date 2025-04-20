@@ -1,22 +1,34 @@
 # Steam Games Dashboard
 
-## Overview
-This is a Power BI dashboard that visualizes various statistics of Steam games. The data comes from the [Steam Games Dataset on Kaggle](https://www.kaggle.com/datasets/mexwell/steamgames). The report includes various key performance indicators (KPIs) such as average playtime, peak concurrent players, and more, displayed through interactive charts and tooltips.
-
+This repository contains a Power BI report analyzing Steam games data.
 
 🔗 **Live Dashboard**: [View Power BI Report](https://mateuszmachowina.github.io/power-bi/)  
-_(Requires access to the author's Power BI organization - SGH Warsaw School of Economics)_
+_(Requires access to the author's Power BI workspace / organization)_
 
-## Files Included
-- **steam-games-dashboard.pbix**: The main Power BI report file.
-- **steam-games-dashboard-overview.pdf**: A PDF overview of the dashboard with screenshots of the key visuals.
-- **data/**: A folder containing the `games.csv` file, which is the main data source for the dashboard.
+📁 **Data & Report Files** (PBIX & CSV):  
+[Google Drive Folder](https://drive.google.com/drive/folders/1Smgei-yGqcSntVgs0tvGWv3of1qJM29V?usp=sharing)
+
+📄 **Original Dataset**:  
+[Steam Games Dataset on Kaggle by Mexwell](https://www.kaggle.com/datasets/mexwell/steamgames)
+
+## Files in this Repository
+
+- `steam-games-dashboard-overview.pdf` – Screenshots with dashboard overview
+- `index.html` – Embeds the published Power BI dashboard (via iframe)
 
 ## Setup Instructions
 
-1. **Download the Dataset**  
-   The data is sourced from Kaggle. To get the data, download the `steamgames.csv` file from the following link:  
-   [Steam Games Dataset on Kaggle](https://www.kaggle.com/datasets/mexwell/steamgames)
+1. Download the files from the [Google Drive Folder](https://drive.google.com/drive/folders/1Smgei-yGqcSntVgs0tvGWv3of1qJM29V?usp=sharing)
+2. Open `steam-games-dashboard.pbix` in Power BI Desktop.
+3. Update the `FolderPath` parameter in Power Query to your local data folder, e.g.:
+
+
+
+## Setup Instructions
+
+1. **Download files** from the [Google Drive Folder](https://drive.google.com/drive/folders/1Smgei-yGqcSntVgs0tvGWv3of1qJM29V?usp=sharing)
+   - `steam-games-dashboard.pbix`
+   - `\data\games.csv`
 
 2. **Folder Path Configuration in Power BI**  
    The Power BI report uses a parameter called **FolderPath** to point to the location of the `games.csv` file. To make the report work on your machine:
