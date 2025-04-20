@@ -4,7 +4,7 @@ This repository will contain Power BI projects for data analysis and visualizati
 
 ## Projects
 
-1. **Steam Games Live Dashboard**  
+1. **Steam Games Live Dashboard 🎮**  
    - **Live Dashboard**: [View Power BI Report](https://mateuszmachowina.github.io/power-bi/)  
 _(Requires access to the author's Power BI organization - SGH Warsaw School of Economics)_
 
