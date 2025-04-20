@@ -3,7 +3,7 @@
 This repository contains a Power BI report analyzing Steam games data.
 
 🔗 **Live Dashboard**: [View Power BI Report](https://mateuszmachowina.github.io/power-bi/)  
-_(Requires access to the author's Power BI workspace / organization)_
+_(Requires access to the author's Power BI organization - SGH Warsaw School of Economics)_
 
 📁 **Data & Report Files** (PBIX & CSV):  
 [Google Drive Folder](https://drive.google.com/drive/folders/1Smgei-yGqcSntVgs0tvGWv3of1qJM29V?usp=sharing)
