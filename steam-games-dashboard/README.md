@@ -18,14 +18,6 @@ _(Requires access to the author's Power BI workspace / organization)_
 
 ## Setup Instructions
 
-1. Download the files from the [Google Drive Folder](https://drive.google.com/drive/folders/1Smgei-yGqcSntVgs0tvGWv3of1qJM29V?usp=sharing)
-2. Open `steam-games-dashboard.pbix` in Power BI Desktop.
-3. Update the `FolderPath` parameter in Power Query to your local data folder, e.g.:
-
-
-
-## Setup Instructions
-
 1. **Download files** from the [Google Drive Folder](https://drive.google.com/drive/folders/1Smgei-yGqcSntVgs0tvGWv3of1qJM29V?usp=sharing)
    - `steam-games-dashboard.pbix`
    - `\data\games.csv`
