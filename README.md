@@ -1,6 +1,6 @@
-# Power BI Projects
+# Power BI Projects 📊
 
-This repository contains multiple Power BI projects for data analysis and visualization.
+This repository will contain Power BI projects for data analysis and visualization.
 
 ## Projects
 
