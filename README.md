@@ -1,6 +1,6 @@
 # Power BI Projects 📊
 
-This repository will contain Power BI projects for data analysis and visualization.
+This repository showcases my Power BI projects, focusing on interactive and visually appealing reports for data analysis and storytelling.
 
 ## Projects
 
