@@ -16,5 +16,5 @@ _(Requires access to the author's Power BI organization - SGH Warsaw School of E
 
    - **Instructions**: Detailed setup instructions are available in the project folder.
 
-
+![Steam Dashboard Demo](steam-games-dashboard/assets/steam-games-dashboard-overview.gif)
 
