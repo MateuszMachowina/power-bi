@@ -21,6 +21,7 @@ _(Requires access to the author's Power BI organization - SGH Warsaw School of E
 1. **Download files** from the [Google Drive Folder](https://drive.google.com/drive/folders/1Smgei-yGqcSntVgs0tvGWv3of1qJM29V?usp=sharing)
    - `steam-games-dashboard.pbix`
    - `\data\games.csv`
+   _Note: You can also download the dataset from the [original source on Kaggle](https://www.kaggle.com/datasets/mexwell/steamgames), but if the author changes the column layout, it may cause issues with the report._
 
 2. **Folder Path Configuration in Power BI**  
    The Power BI report uses a parameter called **FolderPath** to point to the location of the `games.csv` file. To make the report work on your machine:
