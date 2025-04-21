@@ -42,3 +42,6 @@ _(Requires access to the author's Power BI organization - SGH Warsaw School of E
    - **KPI Indicators** for key metrics like peak concurrent players, playtime, and more.
    - **Tooltips** that show additional information when hovering over specific elements in the charts.
    - **Tree Maps, Bar Charts, and Pie Charts** displaying data about the most popular games, genres, and other relevant metrics.
+
+![Steam Dashboard Demo](assets/steam-games-dashboard-overview.gif)
+
