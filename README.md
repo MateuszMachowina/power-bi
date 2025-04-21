@@ -20,5 +20,5 @@ _(Requires access to the author's Power BI organization - SGH Warsaw School of E
 
 ## Files in this Repository
 
-- `index.html` – Embeds the published Power BI dashboard (via iframe)
+- `index.html` – Embeds the published Power BI dashboard (via iframe) on `https://mateuszmachowina.github.io/power-bi/`
 
