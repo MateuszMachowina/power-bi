@@ -9,7 +9,7 @@ This repository showcases my Power BI projects, focusing on interactive and visu
 _(Requires access to the author's Power BI organization - SGH Warsaw School of Economics)_
 
     - **Data & Report Files** (PBIX & CSV):  
-[Google Drive Folder](https://drive.google.com/drive/folders/1Smgei-yGqcSntVgs0tvGWv3of1qJM29V?usp=sharing)
+[Dropbox Folder](https://www.dropbox.com/scl/fo/pmlkytelrngcq355sudr8/ANhIpyJfX_slSb3Xf0OcMMg?rlkey=3cs9o3qc67xoimswj7gem37m0&st=ihukqkwf&dl=0)
 
    - **Original Dataset**:  
 [Steam Games Dataset on Kaggle by Mexwell](https://www.kaggle.com/datasets/mexwell/steamgames)
