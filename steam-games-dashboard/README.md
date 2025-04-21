@@ -14,7 +14,6 @@ _(Requires access to the author's Power BI organization - SGH Warsaw School of E
 ## Files in this Repository
 
 - `steam-games-dashboard-overview.pdf` – Screenshots with dashboard overview
-- `index.html` – Embeds the published Power BI dashboard (via iframe)
 
 ## Setup Instructions
 
