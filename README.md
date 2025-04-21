@@ -18,3 +18,7 @@ _(Requires access to the author's Power BI organization - SGH Warsaw School of E
 
 ![Steam Dashboard Demo](steam-games-dashboard/assets/steam-games-dashboard-overview.gif)
 
+## Files in this Repository
+
+- `index.html` – Embeds the published Power BI dashboard (via iframe)
+
