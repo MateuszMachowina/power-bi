@@ -11,11 +11,11 @@ _(Requires access to the author's Power BI organization - SGH Warsaw School of E
 📄 **Original Dataset**:  
 [Steam Games Dataset on Kaggle by Mexwell](https://www.kaggle.com/datasets/mexwell/steamgames)
 
-## Files in this Repository
+## 📂 Files in this Repository
 
 - `steam-games-dashboard-overview.pdf` – Screenshots with dashboard overview
 
-## Setup Instructions
+## 🔧 Setup Instructions
 
 1. **Download files** from the [Dropbox Folder](https://www.dropbox.com/scl/fo/pmlkytelrngcq355sudr8/ANhIpyJfX_slSb3Xf0OcMMg?rlkey=3cs9o3qc67xoimswj7gem37m0&st=ihukqkwf&dl=0)
    - `steam-games-dashboard.pbix`
