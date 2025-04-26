@@ -2,7 +2,7 @@
 
 This repository showcases my Power BI projects, focusing on interactive and visually appealing reports for data analysis and storytelling.
 
-## Projects
+## 📝 Projects
 
 1. **Steam Games Live Dashboard 🎮**  
    - **Live Dashboard**: [View Power BI Report](https://mateuszmachowina.github.io/power-bi/)  
@@ -18,7 +18,7 @@ _(Requires access to the author's Power BI organization - SGH Warsaw School of E
 
 ![Steam Dashboard Demo](steam-games-dashboard/assets/steam-games-dashboard-overview.gif)
 
-## Files in this Repository
+## 📂 Files in this Repository
 
 - `index.html` – Embeds the published Power BI dashboard (via iframe) on `https://mateuszmachowina.github.io/power-bi/`
 
