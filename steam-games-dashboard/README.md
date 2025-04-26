@@ -1,4 +1,4 @@
-# Steam Games Dashboard 🎮
+# 🎮 Steam Games Dashboard
 
 This repository contains a Power BI report analyzing Steam games data.
 
