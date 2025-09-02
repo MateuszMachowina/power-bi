@@ -2,6 +2,8 @@
 
 This repository contains a Power BI report analyzing Steam games data.
 
+![Steam Dashboard Demo](assets/steam-games-dashboard-overview.gif)
+
 🔗 **Live Dashboard**: [View Power BI Report](https://mateuszmachowina.github.io/power-bi/)  
 _(Requires access to the author's Power BI organization - SGH Warsaw School of Economics)_
 
@@ -43,5 +45,6 @@ _(Requires access to the author's Power BI organization - SGH Warsaw School of E
    - **Tooltips** that show additional information when hovering over specific elements in the charts.
    - **Tree Maps, Bar Charts and Pie Charts** displaying data about the most popular games, genres and other relevant metrics.
 
-![Steam Dashboard Demo](assets/steam-games-dashboard-overview.gif)
+
+
 
